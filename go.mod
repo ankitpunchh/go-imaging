@@ -1,4 +1,4 @@
-module github.com/disintegration/imaging
+module github.com/ankitpunchh/go-imaging
 
 go 1.23.5
 
